@@ -11,7 +11,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 
 # توكن البوت
-TOKEN = "6701346256:AAHqbhR6mKlMrv1fP1w5yl0N57Micimo__g"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 
 # بيانات المستخدمين وحالة النشر
